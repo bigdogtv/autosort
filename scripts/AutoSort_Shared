@@ -1,0 +1,2 @@
+// AutoSort/scripts/3_Game/AutoSort/AutoSort_Shared.c
+static const int AUTOSORT_RPC_SORT = 878701; // pick a unique number for your mod
